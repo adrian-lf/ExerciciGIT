@@ -12,7 +12,7 @@ package cubesystem3d;
 public class SuperDuperUtil {
     
     public SuperDuperUtil() {
-        
+        queAlguienMeLoExplique();
     }
     
 }

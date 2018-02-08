@@ -45,6 +45,10 @@ public class RainMan {
     public void setMmRain(int mmRain) {
         this.mmRain = mmRain;
     }
+	
+	public int setLitrosPorSegundo() {
+		return 666;
+	}
     
     public int setLitrosPorSegundo() {
 		return 666;

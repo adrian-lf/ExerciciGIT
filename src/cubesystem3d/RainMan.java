@@ -46,6 +46,8 @@ public class RainMan {
         this.mmRain = mmRain;
     }
     
-    
+    public int setLitrosPorSegundo() {
+		return 666;
+	}
     
 }

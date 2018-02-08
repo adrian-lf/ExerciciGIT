@@ -10,6 +10,7 @@
 <!-- in the project's Project Properties dialog box.-->
 <project name="CubeSystem3D" default="default" basedir="." xmlns:fx="javafx:com.sun.javafx.tools.ant">
     <description>Builds, tests, and runs the project IncredibleCubeSystem3D.</description>
+    <description>Builds, tests, and runs the project CubeSystem3D. Jajajaja trolling time</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
